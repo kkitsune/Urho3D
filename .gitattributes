@@ -1,4 +1,1 @@
-Docs/* linguist-documentation
-Source/ThirdParty/* linguist-vendored
-bin/Data/Fonts/* linguist-vendored
 *.h linguist-language=C++
